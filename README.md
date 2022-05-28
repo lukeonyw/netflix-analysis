@@ -1,2 +1,2 @@
-# netflix-analysis
-First Data Science Project
+# Python for Data Science
+Typically using Jupyter notebooks
